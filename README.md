@@ -17,7 +17,7 @@
 
 
 <tr>
-	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/INVIDI%20technologies%20Associate%20Software%20Developer%202019" target="_blank"> INVIDI technologies </a> </td>
+	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/INVIDI%20technologies%20Associate%20Software%20Developer%202019" target="_blank"> INVIDI </a> </td>
 	<td> Software Developer 2019 </td>
 	<td> Feb 2019 </td>
 	<td> Online Assessment </td>
