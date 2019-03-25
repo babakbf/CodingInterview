@@ -112,7 +112,7 @@
 	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/VISA%202019%20Senior%20Software%20Engineer" target="_blank"> VISA </a> </td>
 	<td> 2019 Senior Software Engineer</td>
 	<td> Oct 2018 </td>
-	<td colspan="3"> Round-1 Hackerrank Online Assessment, <br> Round-2 Technical Phone Interview</td>, <br> Round-3 Onsite</td>
+	<td colspan="3"> Round-1 Hackerrank Online Assessment, <br> Round-2 Technical Phone Interview, <br> Round-3 Onsite</td>
 </tr>
 
 <tr>
