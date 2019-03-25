@@ -10,7 +10,7 @@ int operation(string &S, std::stack<int> &nums, string &word, int i){
 	int top_element;
     int num1, num2;
 	
-	if (i == S.size() ||S.at(i) == ' '){
+	if (i == S.size() || S.at(i) == ' '){
 		if (word == "DUP"){
 			// push the top of stack
 			if (nums.size()>0){
