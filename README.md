@@ -17,9 +17,9 @@
 
 <tr>
 	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/Design%20Elevator" target="_blank"> Design Elevator </a> </td>
-	<td> Cannot disclose </td>
-	<td> Jan 2019 </td>
-	<td> Cannot disclose </td>
+	<td> VISA Senior Software Engineer </td>
+	<td>  </td>
+	<td> Part of VISA onsite </td>
 </tr>
 
 
