@@ -15,6 +15,12 @@
 </tr>
 
 
+<tr>
+	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/INVIDI%20technologies%20Associate%20Software%20Developer%202019" target="_blank"> Amazon </a> </td>
+	<td> SDE - 1 FinTech team</td>
+	<td> Feb 2019 </td>
+	<td> Amazon </td>
+</tr>
 
 <tr>
 	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/INVIDI%20technologies%20Associate%20Software%20Developer%202019" target="_blank"> INVIDI </a> </td>
