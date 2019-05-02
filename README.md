@@ -16,7 +16,7 @@
 
 
 <tr>
-	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/INVIDI%20technologies%20Associate%20Software%20Developer%202019" target="_blank"> Amazon </a> </td>
+	<td> <a href="https://github.com/jayshah19949596/CodingInterviews/tree/master/Amazon%20SDE%20-%201%20-%20FinTech%20Team" target="_blank"> Amazon </a> </td>
 	<td> SDE - 1 FinTech team</td>
 	<td> Feb 2019 </td>
 	<td> Amazon </td>
