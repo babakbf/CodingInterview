@@ -1,7 +1,7 @@
 ## Technical Phone Interview
 ----
 
-1. What is overfitting?
+1. What is overfitting?   
 Ans. 
    - Model remembering the training data and not performing well on the test data is called overfitting.
 
@@ -27,7 +27,8 @@ Ans.
    
 6. What is batch-normalization?  
 Ans.
-	- Batch normalization is normalizing data coming from the output of the hidden layer
+	- batch-normalization is a normalization of the batch data being processed
+   - If the data in it's raw format is normalized to get good results then same is the idea to normalize the data in the intermediary layers 
 	
 7. Why do we use batch-normalization?  
 Ans.
