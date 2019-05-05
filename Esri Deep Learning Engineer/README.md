@@ -1,11 +1,11 @@
 ## Technical Phone Interview
 ----
-
-1. What does the error graph indicate when training error is less then validation error?  
-Ans. 
+     
+1. What does the error graph indicate when training error is less then validation error?    
+Ans.  
    - The model is over-fitting the training data.
 
-2. How can you prevent over-fitting?  
+2. How can you prevent over-fitting?   
 Ans. 
    - By regularization we can prevent over-fitting
    
