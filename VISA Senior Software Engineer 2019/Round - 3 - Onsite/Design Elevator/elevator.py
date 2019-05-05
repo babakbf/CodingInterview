@@ -1,8 +1,10 @@
+from collections import deque
+
 class Elevator(object):
     def __init__(self):
         self.cf = 0  # current floor
         self.dirc = "NULL"
-        self.req = dequeu([])
+        self.req = deque([])
         self.reqSet = set([])
 
     def in_cmg_req(self, floor):
@@ -17,10 +19,10 @@ class Elevator(object):
             if goal_floor not in self.reqSet:
                 continue
 
-            self.get_direction(cf, gf)
-            self.go_to_dest(cf, goal_floor)
+            self.get_direction(self.cf, goal_floor)
+            self.go_to_dest(self.cf, goal_floor)
 
-    def get_direction(self, cf, gf):
+    def get_direction(self, cf, goal_floor):
         if cf > goal_floor:
             self.dirc = "DOWN"
         else:

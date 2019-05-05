@@ -32,4 +32,4 @@ Ans.
 	
 7. Why do we use batch-normalization?  
 Ans.
-    - It helps in reducing the training time and getting fast towards the global minima
+    - It helps in reducing the training time and getting fast towards the global minima.
